@@ -1,0 +1,3 @@
+Notifying warehouse about Acme Steel.
+Pending orders: 1
+Total quantity ordered: 540
